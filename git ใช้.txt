@@ -1,8 +1,0 @@
-1.git init
-2.git add .
-3.git hub มาใส่ให้หมด
-4.setting -> pages -> main
-5.action ->wait... ->finish
-6.git add .
-7.git commit -m "edit website"
-8.git push
